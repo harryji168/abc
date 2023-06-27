@@ -1,0 +1,22 @@
+{
+	"projectName": "abc",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "abc CSS",
+		"file": "abc.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "abc JS",
+		"file": "abc.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
